@@ -1,0 +1,9 @@
+name: sisyphus_final
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_acrylic: ^1.1.0 # 开启磨砂质感的钥匙
+flutter:
+  uses-material-design: true
